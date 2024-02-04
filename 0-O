@@ -1,0 +1,7 @@
+The time The time complexity of the Bubble sort algorithm is as follows:
+
+Best case: O(n) - This occurs when the array is already sorted, and the algorithm only needs to make a single pass through the array to determine that it is sorted.
+
+Average case: O(n2) - On average, the bubble sort algorithm requires nested loops to compare and swap elements.
+
+Worst case: O(n°2) - This occurs when the array is sorted in reverse order, and each element needs to be moved to its correct position through multiple swaps.
